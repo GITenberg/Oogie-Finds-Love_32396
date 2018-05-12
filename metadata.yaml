@@ -1,0 +1,32 @@
+_repo: Oogie-Finds-Love_32396
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32396-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Livingston, Berkeley
+    birthdate: 1909
+    deathdate: 1975
+    gutenberg_agent_id: '35823'
+    url: http://www.gutenberg.org/2009/agents/35823
+description: It took a fierce battle with the prehistoric Cro-Magnons, and a modern
+  wrestling match with the Russian Bear, before Oogie, the Caveman, finally won beautiful
+  Sala for his woman.
+gutenberg_issued: '2010-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Wrestlers -- Fiction'
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Wrestling -- Fiction'
+- !lcsh 'Science fiction'
+title: Oogie Finds Love
+url: http://www.gutenberg.org/ebooks/32396
